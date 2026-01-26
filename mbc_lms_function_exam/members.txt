@@ -1,0 +1,7 @@
+kkw|1234|김기원|admin|True
+kdh|1234|김도하|admin|True
+lhj|1234|임효정|user|True
+hhu|0621|홍현우|admin|True
+jsy|0530|정소영|admin|True
+kdhb|1234|김동훈|admin|True
+kjj|0428|김재종|admin|True

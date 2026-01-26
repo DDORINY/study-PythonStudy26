@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd34a78b-5728-4591-bbdc-662bc4878ebf" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="37gxOsBYkBHq0yRo1Z8kX6Qnx8x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.01GU.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03SB.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04SH.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Attendance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calculator2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassKDHExam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FourCal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Member.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Member01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MemberExam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MemberService.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MemberTxtExam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Meun3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SSN01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ScoreService.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test-02-01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test-02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.board.executor&quot;: &quot;Run&quot;,
+    &quot;Python.board01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculater.executor&quot;: &quot;Run&quot;,
+    &quot;Python.itemExam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.many_error.executor&quot;: &quot;Run&quot;,
+    &quot;Python.members_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mod1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.process_scores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ssn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ssn1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try_else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try_except.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try_finally.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Python_study&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_study" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python_study\packageExam" />
+      <recent name="C:\Python_study\2026.01-연습" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="cd34a78b-5728-4591-bbdc-662bc4878ebf" name="변경" comment="" />
+      <created>1767338486914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767338486914</updated>
+      <workItem from="1767338487939" duration="5793000" />
+      <workItem from="1767573109834" duration="6934000" />
+      <workItem from="1767580258185" duration="18872000" />
+      <workItem from="1767599847732" duration="3917000" />
+      <workItem from="1767658200300" duration="27197000" />
+      <workItem from="1767689124333" duration="1097000" />
+      <workItem from="1767744888795" duration="29793000" />
+      <workItem from="1767832009340" duration="12000" />
+      <workItem from="1767832039705" duration="10039000" />
+      <workItem from="1767843479467" duration="17989000" />
+      <workItem from="1767917727207" duration="28275000" />
+      <workItem from="1767948367722" duration="233000" />
+      <workItem from="1767948794769" duration="478000" />
+      <workItem from="1768176937324" duration="117000" />
+      <workItem from="1768177098618" duration="27015000" />
+      <workItem from="1768263477887" duration="28551000" />
+      <workItem from="1768349867589" duration="21292000" />
+      <workItem from="1768371826629" duration="8070000" />
+      <workItem from="1768436786496" duration="27144000" />
+      <workItem from="1768523680113" duration="14871000" />
+      <workItem from="1768541099899" duration="12084000" />
+      <workItem from="1768782855817" duration="12433000" />
+      <workItem from="1768796220544" duration="259000" />
+      <workItem from="1768867928164" duration="29750000" />
+      <workItem from="1768899326775" duration="112000" />
+      <workItem from="1768955561937" duration="27263000" />
+      <workItem from="1769041879754" duration="27286000" />
+      <workItem from="1769127696209" duration="28403000" />
+      <workItem from="1769386636167" duration="20513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_study$Test_02.coverage" NAME="Test-02 커버리지 결과" MODIFIED="1768195891286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$ssn1.coverage" NAME="ssn1 커버리지 결과" MODIFIED="1767599943249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$members_test.coverage" NAME="members_test 커버리지 결과" MODIFIED="1768782901194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$MemberExam.coverage" NAME="MemberExam 커버리지 결과" MODIFIED="1768466959086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mbc_lms_function_exam" />
+    <SUITE FILE_PATH="coverage/Python_study$Member.coverage" NAME="Member 커버리지 결과" MODIFIED="1767688043175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$scores.coverage" NAME="scores 커버리지 결과" MODIFIED="1767762633067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$process_scores.coverage" NAME="process_scores 커버리지 결과" MODIFIED="1769132985983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exceptionExam" />
+    <SUITE FILE_PATH="coverage/Python_study$Attendance.coverage" NAME="Attendance 커버리지 결과" MODIFIED="1768899431696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModuleExam/MBC_LMS_Module" />
+    <SUITE FILE_PATH="coverage/Python_study$board.coverage" NAME="board 커버리지 결과" MODIFIED="1767862842433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$try_else.coverage" NAME="try_else 커버리지 결과" MODIFIED="1769132194528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exceptionExam" />
+    <SUITE FILE_PATH="coverage/Python_study$mod1.coverage" NAME="mod1 커버리지 결과" MODIFIED="1768877682792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModuleExam" />
+    <SUITE FILE_PATH="coverage/Python_study$01GU.coverage" NAME="01GU 커버리지 결과" MODIFIED="1767948398842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$Main.coverage" NAME="Main 커버리지 결과" MODIFIED="1768881033382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModuleExam/MBC_LMS_Module" />
+    <SUITE FILE_PATH="coverage/Python_study$main.coverage" NAME="main 커버리지 결과" MODIFIED="1769398771907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/textExam" />
+    <SUITE FILE_PATH="coverage/Python_study$board01.coverage" NAME="board01 커버리지 결과" MODIFIED="1767855080046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$itemExam.coverage" NAME="itemExam 커버리지 결과" MODIFIED="1768350790462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$Meun3.coverage" NAME="Meun3 커버리지 결과" MODIFIED="1767577212614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$try_except.coverage" NAME="try_except 커버리지 결과" MODIFIED="1769129953208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exceptionExam" />
+    <SUITE FILE_PATH="coverage/Python_study$FourCal.coverage" NAME="FourCal 커버리지 결과" MODIFIED="1768795567876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classExam" />
+    <SUITE FILE_PATH="coverage/Python_study$test01.coverage" NAME="test01 커버리지 결과" MODIFIED="1767832238914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$Test_02_01.coverage" NAME="Test-02-01 커버리지 결과" MODIFIED="1768264151987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$ssn.coverage" NAME="ssn 커버리지 결과" MODIFIED="1767594467181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$Calculator2.coverage" NAME="Calculator2 커버리지 결과" MODIFIED="1768788888779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classExam" />
+    <SUITE FILE_PATH="coverage/Python_study$try_finally.coverage" NAME="try_finally 커버리지 결과" MODIFIED="1769130462540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exceptionExam" />
+    <SUITE FILE_PATH="coverage/Python_study$SSN01.coverage" NAME="SSN01 커버리지 결과" MODIFIED="1767659581484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$ClassKDHExam.coverage" NAME="ClassKDHExam 커버리지 결과" MODIFIED="1768796467356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classExam" />
+    <SUITE FILE_PATH="coverage/Python_study$MemberService.coverage" NAME="MemberService 커버리지 결과" MODIFIED="1769146840432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packageExam/LMS/service" />
+    <SUITE FILE_PATH="coverage/Python_study$04SH.coverage" NAME="04SH 커버리지 결과" MODIFIED="1767949101236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$ScoreService.coverage" NAME="ScoreService 커버리지 결과" MODIFIED="1768882470585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModuleExam/MBC_LMS_Module" />
+    <SUITE FILE_PATH="coverage/Python_study$Member01.coverage" NAME="Member01 커버리지 결과" MODIFIED="1768541126670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$03SB.coverage" NAME="03SB 커버리지 결과" MODIFIED="1767948974357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_study$many_error.coverage" NAME="many_error 커버리지 결과" MODIFIED="1769131169750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exceptionExam" />
+    <SUITE FILE_PATH="coverage/Python_study$MemberTxtExam.coverage" NAME="MemberTxtExam 커버리지 결과" MODIFIED="1768528924410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mbc_lms_function_exam" />
+    <SUITE FILE_PATH="coverage/Python_study$calculater.coverage" NAME="calculater 커버리지 결과" MODIFIED="1768785460357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classExam" />
+  </component>
+</project>
