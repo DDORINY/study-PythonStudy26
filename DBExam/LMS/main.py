@@ -1,85 +1,52 @@
-from LMS.common.Session import Session
+# 주 실행코드 (메인메뉴등을 관리한다.)
 from LMS.service import *
+from LMS.common.session import Session
+
 
 def main():
-    run =True
-    while run:
-        MemberService.load()
+    # 프로그램 시작용 코드
+    MemberService.load()
 
+    run = True
+    while run:
         print("""
-+--------------------------------------+
-|        MBC 아카데미 LMS 프로그램       |
-+--------------------------------------+
-  [1] 회원가입
-  [2] 로그인
-  [3] 로그아웃
-  [4] 회원관리
-  [5] 게시판
-  [6] 쇼핑몰
-----------------------------------------
-  [9] 관리자 페이지
-  [0] 프로그램 종료
+        ==========================
+         MBC 아카데미 관리 시스템
+        ==========================
+        1. 회원가입  2. 로그인 3. 로그아웃
+        4. 회원관리  
+        5. 게시판  6. 성적관리 7. 상품몰
+        9. 종료
         """)
-        member = Session.login_member
+        member = Session.login_member # None
         if member is None:
             print("현재 로그인 상태가 아닙니다.")
         else:
             print(f"{member.name}님 환영합니다.")
 
-        select = input(">>>")
-
-        if select == "1":
-            print("""
-+--------------------------------------+
-|        MBC 아카데미 LMS 회원가입       |
-+--------------------------------------+
-    """)
+        sel = input(">>>")
+        if sel == "1":
+            print("회원가입 서비스로 진입합니다.")
             MemberService.signup()
-        elif select == "2":
-            print("""
-+--------------------------------------+
-|         MBC 아카데미 LMS 로그인        |
-+--------------------------------------+
-    """)
+        elif sel == "2":
+            print("로그인 서비스로 진입합니다.")
             MemberService.login()
-        elif select == "3":
-            print("""
-+--------------------------------------+
-|        MBC 아카데미 LMS 로그아웃       |
-+--------------------------------------+
-            """)
+        elif sel == "3":
+            print("로그아웃을 진행합니다.")
             MemberService.logout()
-        elif select == "4":
-            print("""
-+--------------------------------------+
-|        MBC 아카데미 LMS 회원관리       |
-+--------------------------------------+
-            """)
+        elif sel == "4":
+            print("회원관리 서비스로 진입합니다.")
             MemberService.modify()
-        elif select == "5":
-            print("""
-+--------------------------------------+
-|         MBC 아카데미 LMS 게시판        |
-+--------------------------------------+
-            """)
-        elif select == "6":
-            print("""
-+--------------------------------------+
-|         MBC 아카데미 LMS 쇼핑몰        |
-+--------------------------------------+
-            """)
-        elif select == "9":
-            MemberService.admin_p()
-
-        elif select == "0":
-            print("""
-+--------------------------------------+
-|      MBC 아카데미 LMS 프로그램 종료     |
-+--------------------------------------+
-                        """)
+        elif sel == "5":
+            print("게시판으로 진입합니다.")
+            BoardService.run()
+        elif sel == "6":
+            print("성적관리 서비스로 진입합니다.")
+            ScoreService.run()
+        elif sel == "9":
+            print("LMS 서비스를 종료합니다.")
             run = False
-        else:return
-
+# main() 종료
 
 if __name__ == "__main__":
     main()
