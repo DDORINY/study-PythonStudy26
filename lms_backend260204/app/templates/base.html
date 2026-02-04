@@ -1,0 +1,40 @@
+<!--
+▶ 모든 페이지의 공통 레이아웃
+- 상단바
+- 로그인/로그아웃 버튼
+- flash 메시지 출력
+-->
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"/> <!--한국어지원-->
+  <meta name="viewport" content="width=device-width, initial-scale=1"/><!-- 반응형 -->
+  <title>MBC 아카데미 LMS</title><!--타이틀 제목-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!--css에서 만든 디자인을 가져온다. -->
+</head>
+  <header class="topbar"> <!--css에서 스타일을 적용할 예정 -->
+      <div class="logo">MBC 아카데미</div> <!--상단에 로고부분 이미지가 아닌 텍스트로 -->
+       <nav class="nav"> <!--메뉴창이다. -->
+      {% if session.get("member_id") %}<!--member의 db를 가져온다. -->
+        <a class="btn outline" href="{{ url_for('auth.logout') }}">로그아웃</a> <!--버튼인가?-->
+      {% else %}
+        <a class="btn" href="{{ url_for('auth.login') }}">로그인</a> <!--버튼인가?-->
+      {% endif %} <!--이건 머임? if 끝이란거임?-->
+    </nav>
+  </header>
+<main class="container"> <!--css 클래스 스타일인가?-->
+    {% with messages = get_flashed_messages() %}<!--이게 머지? get_flashed_messages()이걸 만든적이 없는데-->
+      {% if messages %} <!--머임? messages는 어디서 나온거지?-->
+        <div class="flash"> <!--css 클래스 스타일인가?-->
+          {% for msg in messages %}<!--for문을 돌리는데 왜 돌림?-->
+            <div class="flash-item">{{ msg }}</div> <!--css 클래스 스타일인가?-->
+          {% endfor %} <!--for문을 종료하는 거구나 -->
+        </div>
+      {% endif %}<!--if를 종료 하는거고 -->
+    {% endwith %}<!--with를 종료하는건데 이건 with messages = get_flashed_messages() 말하는건가-->
+
+    {% block content %}{% endblock %} <!--이런 문구가 필요한 이유가 뭘까? 이것도 명령어 인가?-->
+  </main>
+</body>
+</html>

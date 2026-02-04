@@ -1,0 +1,20 @@
+<!--
+▶ 로그인 화면
+- 아이디 / 비밀번호 입력
+- POST 요청으로 /login 호출
+-->
+{% extends "base.html" %} <!--base.html를 공통으로 사용하는거라서 부른건가?-->
+{% block content %} <!--이건base.html 마지막에 사용했던건데 이건 왜 여기 위에 있지?-->
+<section class="card"> <!--section 안에 클래스는 css디자인이 들어가는거고 -->
+  <h1>로그인</h1>
+  <form method="post" class="form"> <!--계정 정보를 보내는건가?-->
+    <label>아이디<!--입력창 위 제목-->
+      <input name="uid" placeholder="아이디 입력" required>
+    </label>
+    <label>비밀번호
+      <input name="pw" type="password" placeholder="비밀번호 입력" required>
+    </label>
+    <button class="btn full" type="submit">로그인</button><!--btn full이란건 css때문에 있는건가?-->
+  </form>
+</section>
+{% endblock %}<!--이건 끝나면 무조건 들어가야하는건가?-->
